@@ -33,11 +33,11 @@ https://mp.weixin.qq.com/s/5JyBUdjztHB0fSjdYVkKyA
 
 服务商提交商户5大块信息，包括超级管理员信息、主体资料、经营资料、结算规则、结算银行账户。
 
-#### 1、超级管理员信息
+##### 1、超级管理员信息
 
 ![Image text](https://img-blog.csdnimg.cn/6067eed42a1b4bb5ab275fc8664d71dd.png)
 
-#### 2、主体资料
+##### 2、主体资料
 
 包括两大模块，营业执照信息和经营者/法人身份证件信息
 
@@ -45,17 +45,17 @@ https://mp.weixin.qq.com/s/5JyBUdjztHB0fSjdYVkKyA
 
 ![Image text](https://img-blog.csdnimg.cn/5d36027e9fab41e9aab61c42dc4f2f7c.png)
 
-#### 3、经营资料
+##### 3、经营资料
 
 ![Image text](https://img-blog.csdnimg.cn/9178730d09b442248101ce34ae5165ea.png)
 
-#### 4、结算规则
+##### 4、结算规则
 
 可以设置0.2%~0.6%范围之间的优惠费率
 
 ![Image text](https://img-blog.csdnimg.cn/75697be9e3094853884ba297e86f6b60.png)
 
-#### 5、结算银行账户
+##### 5、结算银行账户
 
 ![Image text](https://img-blog.csdnimg.cn/b1ee9090e1db4916a3c16cd16b3d6495.png)
 
